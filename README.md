@@ -36,4 +36,4 @@ Goal: understand patterns affecting student grades and identify features that ma
 
 - student_performance_eda.ipynb: Full Jupyter notebook with visuals and code
 
-- student_performance_eda_notebook.pdf: PDF export for easy sharing/presentation
+- student_performance_eda_finalnotebook.pdf: PDF export for easy sharing/presentation
